@@ -1,4 +1,4 @@
-# PISA_data_map
+# PAHO website database mapping
 
 PAHO website is contains following data visualization platform.
 PLISA is the BI tool where users can explore available datasets and generate data visualization to gain insights on their public health topic issues. 
